@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.0.1"
+github "Hearst-DD/ObjectMapper" "2.0.0"
+github "antitypical/Result" "3.0.0"
+github "ReactiveX/RxSwift" "3.0.0-beta.1"
+github "ReactiveCocoa/ReactiveSwift" "3dc5b89068dc97fedd70de0c0cc9023bed554b1f"
+github "Moya/Moya" "8.0.0-beta.2"
